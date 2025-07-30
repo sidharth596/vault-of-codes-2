@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 20px;
+  padding: 0;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #333;
+}
+
+section {
+  background-color: #fff;
+  padding: 20px;
+  margin: 15px auto;
+  border-radius: 10px;
+  max-width: 800px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Card Component */
+.card {
+  width: 300px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.card h2 {
+  margin: 10px 0;
+}
+
+.card p {
+  color: #555;
+}
